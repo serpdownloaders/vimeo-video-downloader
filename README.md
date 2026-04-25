@@ -51,7 +51,7 @@ We designed this extension with **user privacy at the core**:
 Would you like me to also draft a **shorter, more marketing-style version** of this (for Chrome Web Store / Edge Add-ons listing), or do you prefer keeping the technical + detailed style throughout?
 
 
-<a href="https://www.youtube.com/watch?v=-_zu7XgFuKs" target="_blank">
+<a href="https://www.youtube.com/watch?v=NV_g1ijqxLA" target="_blank">
 <img src="https://github.com/user-attachments/assets/428ebb22-950e-4aaf-a9b0-065313273b48" width="900px">
 </a>
 
@@ -179,13 +179,13 @@ Grants access to Vimeo domains (vimeo.com, player.vimeo.com, vimeocdn.com) and a
 
 # How to Download Vimeo Videos for Free (Mac & Windows) | No Extensions/Tools Needed (MAC VERSION)
 
-<a href="https://www.youtube.com/watch?v=MeLNJSwCnwk" target="_blank">
+<a href="https://www.youtube.com/watch?v=NV_g1ijqxLA" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-vimeo-videos-for-free-mac-windows-no-extensionstools-needed-mac-version.jpg" width="700px">
 </a>
 
 # How to Download Vimeo Videos for Free (Mac & Windows) | No Extensions/Tools Needed (WINDOWS VERSION)
 
-<a href="https://www.youtube.com/watch?v=ZnoC6IZg4s4" target="_blank">
+<a href="https://www.youtube.com/watch?v=NV_g1ijqxLA" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-vimeo-videos-for-free-mac-windows-no-extensionstools-needed-windows-version.jpg" width="700px">
 </a>
 
